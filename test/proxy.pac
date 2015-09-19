@@ -4,6 +4,7 @@
 var proxy = "SOCKS5 112.126.81.122:10880;SOCKS 112.126.81.122:10880; SOCKS 127.0.0.1:1080; DIRECT;";
 
 var domains = {
+  "speakerdeck.com": 1,
   "0to255.com": 1, 
   "10musume.com": 1, 
   "123rf.com": 1, 
