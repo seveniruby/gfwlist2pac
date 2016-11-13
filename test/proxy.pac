@@ -4,6 +4,7 @@
 var proxy = "PROXY 112.126.81.122:8787; SOCKS5 112.126.81.122:8787; SOCKS5 127.0.0.1:1080; DIRECT;";
 
 var domains = {
+  "testing.googleblog.com": 1,
   "speakerdeck.com": 1,
   "0to255.com": 1, 
   "10musume.com": 1, 
