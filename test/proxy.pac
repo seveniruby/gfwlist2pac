@@ -2490,6 +2490,7 @@ var domains = {
   "zuola.com": 1, 
   "zvereff.com": 1, 
   "zyzc9.com": 1
+  "zoom.us": 1
 };
 
 var direct = 'DIRECT;';
