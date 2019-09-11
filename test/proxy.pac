@@ -2489,7 +2489,7 @@ var domains = {
   "zuo.la": 1, 
   "zuola.com": 1, 
   "zvereff.com": 1, 
-  "zyzc9.com": 1
+  "zyzc9.com": 1,
   "zoom.us": 1
 };
 
